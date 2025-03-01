@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         poe2.ninja UI tweak
 // @namespace    https://monkey130.cc/userscripts
-// @version      1.2
+// @version      1.3
 // @description  improve UI
 // @author       monkey130
 // @match        https://poe2.ninja/*
