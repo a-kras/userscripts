@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         poe2.ninja UI tweak
 // @namespace    https://monkey130.cc/userscripts
-// @version      1.1
+// @version      1.2
 // @description  improve UI
 // @author       monkey130
 // @match        https://poe2.ninja/*
@@ -33,6 +33,7 @@ body.grid {
   visibility: hidden !important;
 }
 `;
+
 /* Alternative grid:
   grid-template-columns: minmax(300px,1fr) 100fr minmax(300px,1fr) !important;
   grid-template-areas:
